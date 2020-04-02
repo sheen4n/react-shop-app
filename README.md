@@ -1,4 +1,4 @@
-# Project Title - Monster Rolodex
+# Project Title - React Shop App
 
 This Project is a demonstration of basic features of react.js.
 
